@@ -1,6 +1,8 @@
 # responsi_019
 
-A new Flutter project.
+Responsi Praktikum Mobile SI-E
+Nama : Hanidar Raffilia Kamil
+NIM  : 124220019
 
 ## Getting Started
 
